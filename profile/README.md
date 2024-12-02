@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Команда
-- [oreg0na](https://t.me/oreg0na) - Teamlead, Fullstack developer
+- [oreg0na](https://t.me/svpg16) - Teamlead, Fullstack developer
 - [micmaclaynd](https://t.me/micmaclaynd) - Fullstack developer 
 - [KorginIlya](https://t.me/KorginIlya) - 1C developer
 - [dzu0tg](https://t.me/dzu0tg) - Designer UI/UX
