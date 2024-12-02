@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+### Команда
+- [dzu0tg](https://t.me/dzu0tg) - Designer UI/UX
+- [oreg0na](https://t.me/oreg0na) - Teamlead, Fullstack developer
+- [micmaclaynd](https://t.me/micmaclaynd) - Fullstack developer 
+- [KorginIlya](https://t.me/KorginIlya) - 1C developer 
+- [misza_999](https://t.me/misza_999) - Консультант-аналитик
+
 ### 🧰 Технологический стек разработчиков команды
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,py,mysql,docker&perline=4)](https://t.me/eight_xbyte)
 
