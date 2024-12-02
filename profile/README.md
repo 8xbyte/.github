@@ -1,4 +1,4 @@
-## Hi there 👋
+## Команда 8xbyte (ИПТИП, РТУ МИРЭА)
 
 ### Команда
 - [oreg0na](https://t.me/svpg16) - Teamlead, Fullstack developer
