@@ -22,7 +22,7 @@
 - [EgorBelov](https://codeforces.com/profile/EgorBelov) - Основной
 
 ### 🚀 Технологический стек 8xBF и 8xBN
-[![My Skills](https://skillicons.dev/icons?i=сs,c++,python&perline=4)](https://t.me/eight_xbyte)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,python&perline=4)](https://t.me/eight_xbyte)
 
 ### 🧰 Технологический стек 8xbyte
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,py,mysql,docker&perline=4)](https://t.me/eight_xbyte)
